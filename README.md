@@ -1,4 +1,4 @@
-# 🛒 Sistema de Ventas – Unube (Oracle PL/SQL)
+# 🛒 Sistema de Ventas – Inube (Oracle PL/SQL)
 
 ## 📌 Descripción del Proyecto
 
@@ -161,5 +161,5 @@ Las pruebas utilizan control transaccional mediante `ROLLBACK` para evitar afect
 
 ## 📂 Estructura del Repositorio
 
-Los scripts están organizados por orden de ejecución en su nomenclatura:
+Los scripts están organizados por orden de ejecución en su nomenclatura.
 
